@@ -1,0 +1,9 @@
+ffmpeg.exe
+ffprobe.exe
+*.mp4
+*.mp3
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
