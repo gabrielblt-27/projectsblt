@@ -1,0 +1,1 @@
+Para que o código realize a conversão, é necessário instalar o arquivo executável do ffmpeg, pois somente com ele na pasta local do projeto vai funcionar a conversão do arquivo .mp3
